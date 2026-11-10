@@ -266,9 +266,4 @@ class VulnerabilityReport(BaseModel):
 
 ---
 
-
-This project is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 **SentinelGraph — Reason. Investigate. Secure.**
